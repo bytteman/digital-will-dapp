@@ -1,4 +1,6 @@
-# Sample Hardhat Project
+# Digit Will Project
+
+Build by Group Project 2 INFO2400 – Sec4 – Group 3.
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
 
